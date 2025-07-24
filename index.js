@@ -1,4 +1,7 @@
-let firstName = "Hassan ";
-let lastName = "Mezher";
-let fullName = firstName + lastName;
-console.log(fullName);
+let namee = "Linda";
+let greeting = "Hi there";
+function phrase() {
+    console.log(greeting + ", " + namee + " !");
+}
+
+phrase();
